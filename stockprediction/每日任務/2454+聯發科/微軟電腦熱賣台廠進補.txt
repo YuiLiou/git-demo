@@ -1,0 +1,10 @@
+聯合財經網
+2016-12-02 00:45:50
+ 微軟Surface Studio 分享   facebook twitter pinterest     微軟（Microsoft）10月底發表的一體機（AIO）Surface Studio熱賣，供應鏈上的晶片廠聯發科（2454）、瑞昱、創惟、聯陽、華邦電、旺宏等可望受惠。
+微軟Surface Studio配置28吋觸控螢幕、1,350萬畫素，且只有12.5毫米厚，號稱同級最薄；加上搭配可調式轉軸、Surface Pen與新配件SurfaceDial，讓它可以化身為28吋的超大繪圖板。
+Surface Studio已開放預購，並將於12月15日上市。雖然其入門版本的售價高達2,999美元、折合新台幣近9萬6,000元，但市場反應佳，供不應求。
+知名拆解網站iFixit已拆解Surface Studio，對外發表拆解報告指出，Surface Studio採英特爾Core i5-6440HQ處理器，還有輝達GeForce GTX965M繪圖晶片。
+另外，Surface Studio同時採用晟碟（SanDisk）的32GB儲存型快閃記憶體模組，搭配慧榮的SATA3固態硬碟控制晶片。在台廠部分，拆解報告指出，Surface Studio使用聯發科的網通晶片，還有瑞昱的SD讀卡機控制器和音效晶片，以及創惟的USB3.1集線器控制晶片、聯陽IT8527晶片、聯詠NT96131QG-46晶片等。
+ 
+
+		

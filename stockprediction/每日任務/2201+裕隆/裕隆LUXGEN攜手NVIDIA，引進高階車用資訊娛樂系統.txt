@@ -1,0 +1,4 @@
+MoneyDJ
+2016-05-25 17:16
+
+MoneyDJ新聞 2016-05-25 17:16:31 記者 新聞中心 報導全球繪圖處理器龍頭NVIDIA(輝達)與裕隆(2201)旗下品牌廠LUXGEN攜手合作，共同將高階車用娛樂資訊系統首度引進台灣汽車產業。LUXGEN S3車款搭載採用 NVIDIA Tegra行動處理器的進階THINK+ 4.0智慧車載系統；Tegra整合數種專業處理器，包含多核心ARM CPU、強勁的GPU以及精密的語音、影像及圖像處理器，卻僅需少許功耗。NVIDIA指出，LUXGEN S3為這個月在台灣上市的五人座小型房車，裝載1.6公升四缸引擎，並具備多種先進駕駛輔助系統(ADAS)功能，包含3D X-View+智慧3D影像輔助系統、Active Eagle View+主動式360度環景影像系統以及Side View+車側安全影像輔助系統，皆透過由NVIDIA的技術所驅動的THINK+ 4.0智慧車載系統，其先進駕駛輔助系統以及車用資訊娛樂裝置已驚豔了兩岸主流汽車市場。NVIDIA台灣區總經理暨業務行銷副總裁邱麗孟表示，隨著車內科技日漸重要與普及化，NVIDIA全力支援LUXGEN以及世界其他OEM夥伴廠商來達成兼顧安全以及娛樂的訴求。除了Tegra外，LUXGEN亦運用NVIDIA技術於其他領域，包括LUXGEN運用NVIDIA Quadro專業繪圖卡的HP工作站來設計以及製造車款，同時該公司也為台灣擁有最多Quadro設計中心的汽車製造商；同時，以NVIDIA Iray為基礎的應用程式Lumiscaphe實現最先進的工作流程，讓設計師得以於第一時間與3D虛擬模型互動。另外，LUXGEN也使用Quadro繪圖卡和專為Maya的Iray項目渲染LUXGEN ProVR展間應用軟體，其亦為第一家在大陸市場使用Unreal Engine 4部署NVIDIA VRWorks於設計 ProVR應用程式的車廠；且透過經VR Ready認證的NVIDIA GeForce GTX 980繪圖卡和Oculus頭盔可提供台灣潛在車主於LUXGEN VR試車間究極的虛擬體驗。

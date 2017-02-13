@@ -1,0 +1,3 @@
+中國時報
+2016-10-19 12:16
+新思科技IC Complier II獲台積電(2330)認證，可支援最先進7奈米製程節點之先期晶片投片(Early Tapeouts)。新思科技(Synopsys)宣布，其數位(digital)、簽核(signoff)及客製實作(custom implementation)等設計工具，已獲得台積公司最先進7奈米FinFET技術節點之認證。目前率先導入7奈米先進製程的廠商已規劃有多種設計，這些雙方共同的客戶如果採用IC Compiler II來進行設計，即可從這項新技術節點中得到相得益彰的效果。為因應台積公司7奈米超低電壓作業的要求，新思科技的Galaxy 設計平台（Galaxy Design Platform）支援基於LibertyVariation Format（LVF）的參數晶片內變異（POCV）與先進波形傳播（advanced waveform propagation，AWP）技術。新思科技設計事業群產品行銷副總裁Bijan Kiani表示，新思科技與台積公司於7奈米科技的最新合作著眼於IC Compiler II及Galaxy設計平台上其他的產品的整合應用。這項合作可協助雙方共同客戶運用Galaxy設計平台支援7奈米晶片設計，以提高設計品質和加快產品的上市時程。台積電設計基礎架構行銷事業部資深協理Suk Lee指出，台積公司與新思科技已就FinFET製程累積了深厚的合作關係，此次認證證明Galaxy設計平台上的工具，可應用於7奈米的前期規劃(early engagement)。(時報資訊)
